@@ -22,14 +22,14 @@ A comprehensive **Manual API Testing** project for the **Restful Booker REST API
 ## Project Structure
 
 ```text
-📁 Requirements
-📁 Test Plan
-📁 Test Design
-📁 Traceability Matrix
-📁 Test Execution
 📁 Bug Report
-📁 Test Closure
 📁 Postman Collections
+📁 Requirements
+📁 Test Closure
+📁 Test Design
+📁 Test Execution
+📁 Test Plan
+📁 Traceability Matrix
 📄 README.md
 ```
 
